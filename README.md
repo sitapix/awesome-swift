@@ -326,6 +326,7 @@ A curated list of awesome Swift frameworks, libraries, and software.
 
 - **[SQLite.swift](https://github.com/stephencelis/SQLite.swift)** - A type-safe, Swift-language layer over SQLite3.
 - **[GRDB.swift](https://github.com/groue/GRDB.swift)** - A toolkit for SQLite databases, with a focus on application development.
+- **[SQLiteData](https://github.com/pointfreeco/sqlite-data)** - A fast, lightweight replacement for SwiftData, powered by SQL and supporting CloudKit synchronization.
 - **[CoreStore](https://github.com/JohnEstropia/CoreStore)** - Unleashing the real power of Core Data with the elegance and safety of Swift.
 - **[IceCream](https://github.com/caiyue1993/IceCream)** - Sync Realm Database with CloudKit.
 - **[Sync](https://github.com/3lvis/Sync)** - JSON to Core Data and back. Swift Core Data Sync.
@@ -949,6 +950,7 @@ A curated list of awesome Swift frameworks, libraries, and software.
 - **[awesome-swift-macos-apps](https://github.com/jaywcjlove/awesome-swift-macos-apps)** - A curated collection of open-source macOS applications built with Swift.
 - **[top](https://github.com/app-developers/top)** - Top App Developers - September 2022.
 - **[ios-developer-tools](https://github.com/LeoMobileDeveloper/ios-developer-tools)** - Tools that every iOS developer should know.
+- **[Axiom](https://github.com/CharlesWiltgen/Axiom)** - Battle-tested Claude Code skills, commands, and references for modern Apple-platform development.
 - **[zen](https://github.com/100mango/zen)** - iOS, macOS, Swift, Objective-C thoughts.
 - **[functional-swift](https://github.com/objcio/functional-swift)** - Issue repository for the Functional Swift book.
 - **[pointfreeco](https://github.com/pointfreeco/pointfreeco)** - The source for <www.pointfree.co>, a video series on advanced programming topics in Swift.

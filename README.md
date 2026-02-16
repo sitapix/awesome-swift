@@ -5,6 +5,7 @@ A curated list of awesome Swift frameworks, libraries, and software.
 I didn't want to click every link to check if a project was still alive, so I scripted a cleanup using the GitHub API. Projects that haven't been updated in 2+ years have been removed. This isn't a perfect signal, some stable libraries don't need frequent updates, but the goal is to make every click more likely to lead to a project that still works.
 
 > ⏳ = Not updated in 1-2 years. May be removed in a future cleanup.
+
 - [Awesome Swift](#awesome-swift)
   - [🌐 API / Networking](#-api--networking)
   - [🧭 App Routing](#-app-routing)
@@ -100,14 +101,11 @@ I didn't want to click every link to check if a project was still alive, so I sc
 - **[swift-http-types](https://github.com/apple/swift-http-types)** - Version-independent HTTP currency types for Swift. (1.0k ⭐)
 - **[protobuf-swift](https://github.com/alexeyxo/protobuf-swift)** - Google ProtocolBuffers for Apple Swift. (942 ⭐) ⏳
 - **[Networking](https://github.com/freshOS/Networking)** - Concise networking code leveraging async-await, Decodable & Generics. (889 ⭐)
-
-*[↑ Back to top](#contents)*
+- **[instantsearch-ios](https://github.com/algolia/instantsearch-ios)** - A library of widgets and helpers to build instant-search applications on iOS. (611 ⭐)
 
 ## 🧭 App Routing
 
 - **[URLNavigator](https://github.com/devxoul/URLNavigator)** - Elegant URL Routing for Swift. (3.3k ⭐) ⏳
-
-*[↑ Back to top](#contents)*
 
 ## 🛒 App Store / In-App Purchases
 
@@ -115,8 +113,6 @@ I didn't want to click every link to check if a project was still alive, so I sc
 - **[purchases-ios](https://github.com/RevenueCat/purchases-ios)** - In-app purchases and subscriptions made easy. Support for iOS, watchOS, tvOS, macOS, and visionOS. (2.9k ⭐)
 - **[appstoreconnect-swift-sdk](https://github.com/AvdLee/appstoreconnect-swift-sdk)** - The Swift SDK to work with the App Store Connect API from Apple. (1.6k ⭐)
 - **[merchantkit](https://github.com/benjaminmayo/merchantkit)** - A modern In-App Purchases management framework for iOS. (1.1k ⭐) ⏳
-
-*[↑ Back to top](#contents)*
 
 ## 🏗️ Architecture Patterns
 
@@ -132,16 +128,12 @@ I didn't want to click every link to check if a project was still alive, so I sc
 - **[route-composer](https://github.com/ekazaev/route-composer)** - Protocol oriented, Cocoa UI abstractions based library that helps to handle view controllers composition, navigation and deep linking tasks. (926 ⭐)
 - **[iOSSampleApp](https://github.com/igorkulman/iOSSampleApp)** - Sample iOS app demonstrating Coordinators, Dependency Injection, MVVM, Binding. (902 ⭐)
 
-*[↑ Back to top](#contents)*
-
 ## 🥽 AR / VR
 
 - **[Awesome-ARKit](https://github.com/olucurious/Awesome-ARKit)** - A curated list of awesome ARKit projects and resources. (8.0k ⭐) ⏳
 - **[Fisheye](https://github.com/hanton/Fisheye)** - iOS 360 panorama video player with Metal rendering support. (2.2k ⭐)
 - **[ARuler](https://github.com/duzexu/ARuler)** - Measure distance using apple ARKit. (1.3k ⭐)
 - **[ARShooter](https://github.com/farice/ARShooter)** - A demo Augmented Reality shooter made with ARKit in Swift (iOS 11). (810 ⭐)
-
-*[↑ Back to top](#contents)*
 
 ## 🔊 Audio
 
@@ -151,8 +143,6 @@ I didn't want to click every link to check if a project was still alive, so I sc
 - **[FDWaveformView](https://github.com/fulldecent/FDWaveformView)** - Reads an audio file and displays the waveform. (1.3k ⭐)
 - **[SwiftySound](https://github.com/adamcichy/SwiftySound)** - SwiftySound is a simple library that lets you play sounds with a single line of code. (1.3k ⭐) ⏳
 - **[DSWaveformImage](https://github.com/dmrschmidt/DSWaveformImage)** - Generate waveform images from audio files on iOS, macOS & visionOS in Swift. Native SwiftUI & UIKit views. (1.2k ⭐)
-
-*[↑ Back to top](#contents)*
 
 ## 🔐 Authentication / Security
 
@@ -168,13 +158,9 @@ I didn't want to click every link to check if a project was still alive, so I sc
 - **[ios-application](https://github.com/raivo-otp/ios-application)** - A native, lightweight and secure one-time-password (OTP) client built for iOS; Raivo OTP!. (940 ⭐)
 - **[Authenticator](https://github.com/mattrubin/Authenticator)** - Two-Factor Authentication Client for iOS. (867 ⭐)
 
-*[↑ Back to top](#contents)*
-
 ## 💾 Caching
 
 - **[Cache](https://github.com/hyperoslo/Cache)** - Nothing but Cache. (3.1k ⭐)
-
-*[↑ Back to top](#contents)*
 
 ## 📅 Calendar / Date
 
@@ -182,22 +168,19 @@ I didn't want to click every link to check if a project was still alive, so I sc
 - **[CalendarKit](https://github.com/richardtop/CalendarKit)** - Calendar for Apple platforms in Swift. (2.7k ⭐)
 - **[time](https://github.com/davedelong/time)** - Robust and type-safe date and time calculations for Swift. (2.3k ⭐) ⏳
 - **[DateHelper](https://github.com/melvitax/DateHelper)** - A Swift Date extension helper. (1.5k ⭐) ⏳
-
-*[↑ Back to top](#contents)*
+- **[KVKCalendar](https://github.com/kvyatkovskys/KVKCalendar)** - A most fully customization calendar for Apple platforms. (770 ⭐)
 
 ## 📊 Charts / Graphs
--**[KSChart](https://github.com/sevtin/KSChart)** - k line chart with MA/EMA/MACD/KDJ/BOLL/RSI/WR/AVG indicators. Swift5, 60FPS stable.
-*[↑ Back to top](#contents)*
 
+- **[KSChart](https://github.com/sevtin/KSChart)** - k line chart with MA/EMA/MACD/KDJ/BOLL/RSI/WR/AVG indicators. Swift5, 60FPS stable. (1.1k ⭐)
 - **[AAChartKit-Swift](https://github.com/AAChartModel/AAChartKit-Swift)** - An elegant modern declarative data visualization chart framework for iOS, iPadOS and macOS. (2.5k ⭐)
 - **[Swift-Charts-Examples](https://github.com/jordibruin/Swift-Charts-Examples)** - An overview of the different types of charts you can make with Swift Charts. (2.4k ⭐)
 - **[Cosmos](https://github.com/evgenyneu/Cosmos)** - A star rating control for iOS/tvOS written in Swift. (2.2k ⭐) ⏳
 - **[SwiftUICharts](https://github.com/willdale/SwiftUICharts)** - A charts / plotting library for SwiftUI. Works on macOS, iOS, watchOS, and tvOS. (952 ⭐)
 
 ## 💬 Chat / Messaging
-- ****[MessageKit](https://github.com/MessageKit/MessageKit)**** - A community-driven replacement for JSQMessagesViewController
-*[↑ Back to top](#contents)*
 
+- \***\*[MessageKit](https://github.com/MessageKit/MessageKit)\*\*** - A community-driven replacement for JSQMessagesViewController
 - **[Chatto](https://github.com/badoo/Chatto)** - A lightweight framework to build chat applications, made in Swift. (4.5k ⭐)
 - **[Chat](https://github.com/exyte/Chat)** - A SwiftUI Chat UI framework with fully customizable message cells and a built-in media picker. (1.7k ⭐)
 - **[InputBarAccessoryView](https://github.com/nathantannar4/InputBarAccessoryView)** - A simple and easily customizable InputAccessoryView for making powerful input bars with autocomplete and attachments. (1.3k ⭐)
@@ -211,8 +194,6 @@ I didn't want to click every link to check if a project was still alive, so I sc
 - **[SwiftShell](https://github.com/kareman/SwiftShell)** - A Swift framework for shell scripting. (1.1k ⭐)
 - **[ShellOut](https://github.com/JohnSundell/ShellOut)** - Easily run shell commands from a Swift script or command line tool. (886 ⭐) ⏳
 
-*[↑ Back to top](#contents)*
-
 ## ✨ Code Quality
 
 - **[SwiftLint](https://github.com/realm/SwiftLint)** - A tool to enforce Swift style and conventions. (19k ⭐)
@@ -220,8 +201,6 @@ I didn't want to click every link to check if a project was still alive, so I sc
 - **[periphery](https://github.com/peripheryapp/periphery)** - A tool to identify unused code in Swift projects. (6.0k ⭐)
 - **[FengNiao](https://github.com/onevcat/FengNiao)** - A command line tool for cleaning unused resources in Xcode. (3.6k ⭐)
 - **[swift-format](https://github.com/swiftlang/swift-format)** - Formatting technology for Swift source code. (2.9k ⭐)
-
-*[↑ Back to top](#contents)*
 
 ## ⚡ Concurrency / Async
 
@@ -234,14 +213,10 @@ I didn't want to click every link to check if a project was still alive, so I sc
 - **[Queuer](https://github.com/FabrizioBrancati/Queuer)** - Queuer is a queue manager, built on top of OperationQueue and Dispatch (aka GCD). (1.2k ⭐)
 - **[Then](https://github.com/freshOS/Then)** - Tame async code with battle-tested promises. (999 ⭐) ⏳
 
-*[↑ Back to top](#contents)*
-
 ## 🔒 Cryptography
 
 - **[CryptoSwift](https://github.com/krzyzanowskim/CryptoSwift)** - CryptoSwift is a growing collection of standard and secure cryptographic algorithms implemented in Swift. (11k ⭐)
 - **[RNCryptor](https://github.com/RNCryptor/RNCryptor)** - CCCryptor (AES encryption) wrappers for iOS and Mac in Swift. (3.4k ⭐)
-
-*[↑ Back to top](#contents)*
 
 ## 🧮 Data Structures / Algorithms
 
@@ -249,8 +224,6 @@ I didn't want to click every link to check if a project was still alive, so I sc
 - **[swift-algorithms](https://github.com/apple/swift-algorithms)** - Commonly used sequence and collection algorithms for Swift. (6.3k ⭐)
 - **[LeetCode-Swift](https://github.com/soapyigu/LeetCode-Swift)** - Solutions to LeetCode by Swift. (5.0k ⭐) ⏳
 - **[swift-collections](https://github.com/apple/swift-collections)** - Commonly used data structures for Swift. (4.4k ⭐)
-
-*[↑ Back to top](#contents)*
 
 ## 🗄️ Database
 
@@ -262,8 +235,6 @@ I didn't want to click every link to check if a project was still alive, so I sc
 - **[SQLiteData](https://github.com/pointfreeco/sqlite-data)** - A fast, lightweight replacement for SwiftData, powered by SQL and supporting CloudKit synchronization. (1.6k ⭐)
 - **[fluent](https://github.com/vapor/fluent)** - Vapor ORM (queries, models, and relations) for NoSQL and SQL databases. (1.4k ⭐)
 
-*[↑ Back to top](#contents)*
-
 ## 💉 Dependency Injection
 
 - **[Swinject](https://github.com/Swinject/Swinject)** - Dependency injection framework for Swift with iOS/macOS/Linux. (6.7k ⭐)
@@ -273,13 +244,9 @@ I didn't want to click every link to check if a project was still alive, so I sc
 - **[needle](https://github.com/uber/needle)** - Compile-time safe Swift dependency injection framework. (2.0k ⭐)
 - **[Dip](https://github.com/AliSoftware/Dip)** - Simple Swift Dependency container. Use protocols to resolve your dependencies and avoid singletons / sharedInstances!. (982 ⭐) ⏳
 
-*[↑ Back to top](#contents)*
-
 ## 📖 Documentation
 
 - **[swift-docc](https://github.com/swiftlang/swift-docc)** - Documentation compiler that produces rich API reference documentation and interactive tutorials for your Swift framework or package. (1.3k ⭐)
-
-*[↑ Back to top](#contents)*
 
 ## 🧰 Extensions / Utilities
 
@@ -294,8 +261,6 @@ I didn't want to click every link to check if a project was still alive, so I sc
 - **[swift-overture](https://github.com/pointfreeco/swift-overture)** - A library for function composition. (1.2k ⭐) ⏳
 - **[swift-case-paths](https://github.com/pointfreeco/swift-case-paths)** - Case paths extends the key path hierarchy to enum cases. (1.0k ⭐)
 
-*[↑ Back to top](#contents)*
-
 ## 📁 File Management
 
 - **[Disk](https://github.com/saoudrizwan/Disk)** - Easily persist structs, images, and data on iOS. (3.1k ⭐) ⏳
@@ -307,19 +272,13 @@ I didn't want to click every link to check if a project was still alive, so I sc
 - **[swift-system](https://github.com/apple/swift-system)** - Low-level system calls and types for Swift. (1.4k ⭐)
 - **[Path.swift](https://github.com/mxcl/Path.swift)** - Delightful, robust, cross-platform and chainable file-pathing functions. (954 ⭐)
 
-*[↑ Back to top](#contents)*
-
 ## 📝 Forms
 
 - **[Eureka](https://github.com/xmartlabs/Eureka)** - Elegant iOS form builder in Swift. (12k ⭐) ⏳
 
-*[↑ Back to top](#contents)*
-
 ## 🎮 Games
 
 - **[SwiftGodot](https://github.com/migueldeicaza/SwiftGodot)** - New Godot bindings for Swift. (1.6k ⭐)
-
-*[↑ Back to top](#contents)*
 
 ## 🔌 Hardware
 
@@ -330,8 +289,6 @@ I didn't want to click every link to check if a project was still alive, so I sc
 - **[SwiftyGPIO](https://github.com/uraimo/SwiftyGPIO)** - A Swift library for hardware projects on Linux/ARM boards with support for GPIOs/SPI/I2C/PWM/UART/1Wire. (1.4k ⭐) ⏳
 - **[WebRTC-iOS](https://github.com/stasel/WebRTC-iOS)** - A simple native WebRTC demo iOS app using swift. (1.3k ⭐)
 - **[BeaconEmitter](https://github.com/lgaches/BeaconEmitter)** - Turn your Mac as an iBeacon. (997 ⭐) ⏳
-
-*[↑ Back to top](#contents)*
 
 ## 🖼️ Images
 
@@ -377,8 +334,6 @@ I didn't want to click every link to check if a project was still alive, so I sc
 - **[BarcodeScanner](https://github.com/hyperoslo/BarcodeScanner)** - A simple and beautiful barcode scanner. (1.7k ⭐) ⏳
 - **[QRCodeReader.swift](https://github.com/yannickl/QRCodeReader.swift)** - Simple QRCode reader in Swift. (1.3k ⭐) ⏳
 
-*[↑ Back to top](#contents)*
-
 ## 📋 JSON / Parsing
 
 - **[SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON)** - The better way to deal with JSON data in Swift. (23k ⭐)
@@ -405,15 +360,11 @@ I didn't want to click every link to check if a project was still alive, so I sc
 
 - **[FeedKit](https://github.com/nmdias/FeedKit)** - FeedKit is a Swift library for Reading and Generating RSS, Atom, and JSON feeds. (1.3k ⭐)
 
-*[↑ Back to top](#contents)*
-
 ## ⌨️ Keyboard
 
 - **[IQKeyboardManager](https://github.com/hackiftekhar/IQKeyboardManager)** - Codeless drop-in universal library allows to prevent issues of keyboard sliding up and cover UITextField/UITextView. (17k ⭐)
 - **[KeyboardKit](https://github.com/KeyboardKit/KeyboardKit)** - Create amazing custom iOS keyboards with Swift & SwiftUI. (1.8k ⭐)
 - **[KeyboardLayoutGuide](https://github.com/freshOS/KeyboardLayoutGuide)** - KeyboardLayoutGuide, back from when it didn't exist. (1.2k ⭐) ⏳
-
-*[↑ Back to top](#contents)*
 
 ## 📐 Layout
 
@@ -426,14 +377,10 @@ I didn't want to click every link to check if a project was still alive, so I sc
 - **[wtfautolayout](https://github.com/johnpatrickmorgan/wtfautolayout)** - The source code for Why The Failure, Auto Layout?. (1.1k ⭐) ⏳
 - **[Paralayout](https://github.com/square/Paralayout)** - Paralayout is a set of simple, useful, and straightforward utilities that enable pixel-perfect layout in iOS. (793 ⭐)
 
-*[↑ Back to top](#contents)*
-
 ## 🌍 Localization
 
 - **[iOSLocalizationEditor](https://github.com/igorkulman/iOSLocalizationEditor)** - Simple macOS editor app to help you manage iOS and macOS app localizations. (1.5k ⭐) ⏳
 - **[BartyCrouch](https://github.com/FlineDev/BartyCrouch)** - Localization/I18n: Incrementally update/translate your Strings files from .swift, .h, .m(m), .storyboard or .xib files. (1.4k ⭐) ⏳
-
-*[↑ Back to top](#contents)*
 
 ## 📜 Logging
 
@@ -441,8 +388,6 @@ I didn't want to click every link to check if a project was still alive, so I sc
 - **[XCGLogger](https://github.com/DaveWoodCom/XCGLogger)** - A debug log framework for use in Swift projects. (4.0k ⭐) ⏳
 - **[swift-log](https://github.com/apple/swift-log)** - A Logging API for Swift. (3.9k ⭐)
 - **[Willow](https://github.com/Nike-Inc/Willow)** - Willow is a powerful, yet lightweight logging library written in Swift. (1.4k ⭐) ⏳
-
-*[↑ Back to top](#contents)*
 
 ## 🤖 Machine Learning / AI
 
@@ -453,8 +398,6 @@ I didn't want to click every link to check if a project was still alive, so I sc
 - **[LLMFarm](https://github.com/guinmoon/LLMFarm)** - llama and other large language models on iOS and MacOS offline using GGML library. (2.0k ⭐)
 - **[OpenAISwift](https://github.com/adamrushy/OpenAISwift)** - This is a wrapper library around the ChatGPT and OpenAI HTTP API. (1.7k ⭐) ⏳
 - **[swift-transformers](https://github.com/huggingface/swift-transformers)** - Swift Package to implement a transformers-like API in Swift. (1.3k ⭐)
-
-*[↑ Back to top](#contents)*
 
 ## 🖥️ macOS Apps
 
@@ -524,14 +467,10 @@ I didn't want to click every link to check if a project was still alive, so I sc
 - **[copybook-generator](https://github.com/jaywcjlove/copybook-generator)** - "Copybook Generator" is a powerful copybook generation tool. (1.0k ⭐)
 - **[ChangeMenuBarColor](https://github.com/igorkulman/ChangeMenuBarColor)** - Simple utility to change macOS Big Sur and Monterey menu bar color. (986 ⭐)
 
-*[↑ Back to top](#contents)*
-
 ## ⚠️ Malicious
 
 - **[WHC_ConfuseSoftware](https://github.com/netyouli/WHC_ConfuseSoftware)** - iOS代码混淆工具，Uniapp代码混淆工具，react-native代码混淆, iOS代码混淆助手，Android代码混淆助手，Uniapp代码混淆助手，过机器审核，辅助过4.3, other审核，android、ios、uniapp、u3d、cocos2dx、flutter、代码翻新(WHC_ConfuseSoftware)是一款运行在MAC OS平台的App、完美支持Objc和Swift、U3D、Flutter、Cocos2dx项目代码的自动翻新(混淆)、支持文件夹名称、文件名、修改资源文件hash值、类名、方法名、属性名、添加混淆函数方法体、添加混淆属性、自动调用生成的混淆方法、字符串混淆加密等...功能强大而稳定。. (1.8k ⭐)
 - **[confuse-9live](https://github.com/outtable/confuse-9live)** - 🔥🔥🔥 专业版iOS混淆工具，马甲工具包、ipa静态分析工具（相似度对比、敏感词检测），提供试用版本，100%过机器审核，解决 AppStore 4.3，2.3.1问题，支持语言 c、c++、objc、dart、swift 并支持各种资源改名，混淆、傻瓜化操作、一键出包，提供良好的UI界面，支持多包管理一包一特征、支持Unity3d、cocos2d全家桶、swiftUI、flutter、虚幻等各种引擎。支持混淆.a/.framework/.xcframework，混淆比例95%，支持dSYM文件混淆和恢复功能，不影响bugly等各种在线崩溃收集，可持续迭代原工程。. (1.6k ⭐)
-
-*[↑ Back to top](#contents)*
 
 ## 📝 Markdown
 
@@ -541,8 +480,6 @@ I didn't want to click every link to check if a project was still alive, so I sc
 - **[MarkdownView](https://github.com/keitaoouchi/MarkdownView)** - Markdown View for iOS. (2.1k ⭐)
 - **[SwiftyMarkdown](https://github.com/SimonFairbairn/SwiftyMarkdown)** - Converts Markdown files and strings into NSAttributedStrings with lots of customisation options. (1.7k ⭐) ⏳
 
-*[↑ Back to top](#contents)*
-
 ## ➗ Math
 
 - **[swift-numerics](https://github.com/apple/swift-numerics)** - Advanced mathematical types and functions for Swift. (1.8k ⭐)
@@ -550,8 +487,6 @@ I didn't want to click every link to check if a project was still alive, so I sc
 - **[SoulverCore](https://github.com/soulverteam/SoulverCore)** - A powerful Swift framework for evaluating natural language math expressions. (1.0k ⭐)
 - **[DDMathParser](https://github.com/davedelong/DDMathParser)** - String to Number. (865 ⭐) ⏳
 - **[Expression](https://github.com/nicklockwood/Expression)** - A cross-platform Swift library for evaluating mathematical expressions at runtime. (850 ⭐)
-
-*[↑ Back to top](#contents)*
 
 ## ▶️ Media Player
 
@@ -564,13 +499,9 @@ I didn't want to click every link to check if a project was still alive, so I sc
 - **[Aperture](https://github.com/wulkano/Aperture)** - Record the screen on macOS. (1.3k ⭐) ⏳
 - **[Lumina](https://github.com/dokun1/Lumina)** - A camera designed in Swift for easily integrating CoreML models. (907 ⭐)
 
-*[↑ Back to top](#contents)*
-
 ## 🧭 Menu / Navigation
 
 - **[PopMenu](https://github.com/CaliCastle/PopMenu)** - A fully customizable popup style menu for iOS. (1.7k ⭐) ⏳
-
-*[↑ Back to top](#contents)*
 
 ## 👋 Onboarding
 
@@ -579,8 +510,6 @@ I didn't want to click every link to check if a project was still alive, so I sc
 - **[Gecco](https://github.com/bannzai/Gecco)** - Simply highlight items for your tutorial walkthrough, written in Swift. (1.9k ⭐) ⏳
 - **[ConcentricOnboarding](https://github.com/exyte/ConcentricOnboarding)** - SwiftUI library for a walkthrough or onboarding flow with tap actions. (1.5k ⭐)
 - **[OnboardingKit](https://github.com/danielsaidi/OnboardingKit)** - Create amazing onboarding experiences in SwiftUI. (1.2k ⭐)
-
-*[↑ Back to top](#contents)*
 
 ## 📱 Open Source iOS Apps
 
@@ -615,13 +544,9 @@ I didn't want to click every link to check if a project was still alive, so I sc
 - **[OpenScanner](https://github.com/pencilresearch/OpenScanner)** - Fast, reliable, and free document scanner app for iPhone. (1.1k ⭐) ⏳
 - **[wire-ios](https://github.com/wireapp/wire-ios)** - Wire for iOS (iPhone and iPad). (110 ⭐)
 
-*[↑ Back to top](#contents)*
-
 ## 🔑 Permissions
 
 - **[PermissionsSwiftUI](https://github.com/jevonmao/PermissionsSwiftUI)** - A SwiftUI package to beautifully display and handle permissions. (1.6k ⭐) ⏳
-
-*[↑ Back to top](#contents)*
 
 ## ⏳ Progress / Loading
 
@@ -633,8 +558,6 @@ I didn't want to click every link to check if a project was still alive, so I sc
 - **[SkeletonUI](https://github.com/CSolanaM/SkeletonUI)** - Elegant skeleton loading animation in lightweight SwiftUI. (960 ⭐) ⏳
 - **[GradientLoadingBar](https://github.com/fxm90/GradientLoadingBar)** - A customizable animated gradient loading bar. (893 ⭐)
 
-*[↑ Back to top](#contents)*
-
 ## ⚛️ Reactive Programming
 
 - **[RxSwift](https://github.com/ReactiveX/RxSwift)** - Reactive Programming in Swift. (25k ⭐)
@@ -643,8 +566,6 @@ I didn't want to click every link to check if a project was still alive, so I sc
 - **[CombineExt](https://github.com/CombineCommunity/CombineExt)** - CombineExt provides a collection of operators, publishers and utilities for Combine. (1.8k ⭐)
 - **[ReactiveKit](https://github.com/DeclarativeHub/ReactiveKit)** - A Swift Reactive Programming Kit. (1.2k ⭐)
 - **[RxCombine](https://github.com/CombineCommunity/RxCombine)** - Bi-directional type bridging between RxSwift and Apple's Combine framework. (1.1k ⭐) ⏳
-
-*[↑ Back to top](#contents)*
 
 ## 📚 Resources / Learning
 
@@ -670,8 +591,6 @@ I didn't want to click every link to check if a project was still alive, so I sc
 - **[LLVMSwift](https://github.com/llvm-swift/LLVMSwift)** - A Swift wrapper for the LLVM C API (version 11.0). (760 ⭐) ⏳
 - **[Axiom](https://github.com/CharlesWiltgen/Axiom)** - Battle-tested Claude Code skills, commands, and references for modern Apple-platform development. (471 ⭐)
 
-*[↑ Back to top](#contents)*
-
 ## 🖥️ Server-Side Swift
 
 - **[vapor](https://github.com/vapor/vapor)** - A server-side Swift HTTP web framework. (26k ⭐)
@@ -680,15 +599,11 @@ I didn't want to click every link to check if a project was still alive, so I sc
 - **[smoke-framework](https://github.com/amzn/smoke-framework)** - A light-weight server-side service framework written in the Swift programming language. (1.5k ⭐) ⏳
 - **[swift-aws-lambda-runtime](https://github.com/awslabs/swift-aws-lambda-runtime)** - Swift implementation of AWS Lambda Runtime. (1.2k ⭐)
 
-*[↑ Back to top](#contents)*
-
 ## 💽 Storage
 
 - **[SwiftyUserDefaults](https://github.com/sunshinejr/SwiftyUserDefaults)** - Modern Swift API for NSUserDefaults. (4.9k ⭐) ⏳
 - **[DefaultsKit](https://github.com/nmdias/DefaultsKit)** - Simple, Strongly Typed UserDefaults for iOS, macOS and tvOS. (1.4k ⭐) ⏳
 - **[Boutique](https://github.com/mergesort/Boutique)** - A magical persistence library (and so much more) for state-driven iOS and Mac apps. (1.1k ⭐)
-
-*[↑ Back to top](#contents)*
 
 ## 🎨 SwiftUI
 
@@ -723,15 +638,11 @@ I didn't want to click every link to check if a project was still alive, so I sc
 - **[swiftui-router](https://github.com/frzi/swiftui-router)** - Path-based routing in SwiftUI. (960 ⭐) ⏳
 - **[neumorphic](https://github.com/costachung/neumorphic)** - Neumorphic is a SwiftUI utility to build Neumorphism Soft UI. (960 ⭐) ⏳
 
-*[↑ Back to top](#contents)*
-
 ## 📑 Tab Bar
 
 - **[CYLTabBarController](https://github.com/ChenYilong/CYLTabBarController)** - 【中国特色 TabBar】一行代码实现 Lottie 动画TabBar. (7.0k ⭐)
 - **[Tabman](https://github.com/uias/Tabman)** - A powerful paging view controller with interactive indicator bars. (2.9k ⭐)
 - **[CircleBar](https://github.com/softhausHQ/CircleBar)** - A fun, easy-to-use tab bar navigation controller for iOS. (872 ⭐) ⏳
-
-*[↑ Back to top](#contents)*
 
 ## 🧪 Testing
 
@@ -746,8 +657,6 @@ I didn't want to click every link to check if a project was still alive, so I sc
 - **[swift-corelibs-xctest](https://github.com/swiftlang/swift-corelibs-xctest)** - The XCTest Project, A Swift core library for providing unit test support. (1.2k ⭐)
 - **[swift](https://github.com/danger/swift)** - Stop saying "you forgot to …" in code review. (1.1k ⭐)
 - **[SwiftyMocky](https://github.com/MakeAWishFoundation/SwiftyMocky)** - Framework for automatic mock generation. Adds a set of handy methods, simplifying testing. (1.1k ⭐) ⏳
-
-*[↑ Back to top](#contents)*
 
 ## 🔤 Text / Labels
 
@@ -764,13 +673,10 @@ I didn't want to click every link to check if a project was still alive, so I sc
 - **[RichTextKit](https://github.com/danielsaidi/RichTextKit)** - View and edit rich text in Swift & SwiftUI. (1.2k ⭐)
 - **[RSKGrowingTextView](https://github.com/ruslanskorb/RSKGrowingTextView)** - A light-weight UITextView subclass that automatically grows and shrinks. (1.1k ⭐) ⏳
 
-*[↑ Back to top](#contents)*
-
 ## 🎭 Transitions / Presentations
 
+- **[Hero](https://github.com/HeroTransitions/Hero)** - Elegant transition library for iOS & tvOS. (22k ⭐)
 - **[Jelly](https://github.com/SebastianBoldt/Jelly)** - Jelly is a library for animated, non-interactive & interactive viewcontroller transitions and presentations. (2.5k ⭐)
-
-*[↑ Back to top](#contents)*
 
 ## 🎨 UI Components
 
@@ -827,14 +733,10 @@ I didn't want to click every link to check if a project was still alive, so I sc
 - **[VisualEffectView](https://github.com/efremidze/VisualEffectView)** - Dynamic blur background view with tint color (UIVisualEffectView subclass). (1.4k ⭐)
 - **[Shiny](https://github.com/efremidze/Shiny)** - Iridescent Effect View (inspired by Apple Pay Cash). (839 ⭐)
 
-*[↑ Back to top](#contents)*
-
 ## 🎥 Video
 
 - **[lottie-ios](https://github.com/airbnb/lottie-ios)** - An iOS library to natively render After Effects vector animations. (27k ⭐)
 - **[epoxy-ios](https://github.com/airbnb/epoxy-ios)** - Epoxy is a suite of declarative UI APIs for building UIKit applications in Swift. (1.3k ⭐)
-
-*[↑ Back to top](#contents)*
 
 ## 🌐 Web
 
@@ -845,11 +747,9 @@ I didn't want to click every link to check if a project was still alive, so I sc
 - **[Plot](https://github.com/JohnSundell/Plot)** - A DSL for writing type-safe HTML, XML and RSS in Swift. (2.0k ⭐) ⏳
 - **[Swift-YouTube-Player](https://github.com/gilesvangruisen/Swift-YouTube-Player)** - Swift library for embedding and controlling YouTube videos in your iOS applications via WKWebView!. (881 ⭐) ⏳
 
-*[↑ Back to top](#contents)*
-
 ## 🛠️ Xcode Tools
 
-- **[Font-Awesome](https://github.com/FortAwesome/Font-Awesome)** -  The iconic SVG, font, and CSS toolkit. (76k ⭐)
+- **[Font-Awesome](https://github.com/FortAwesome/Font-Awesome)** - The iconic SVG, font, and CSS toolkit. (76k ⭐)
 - **[container](https://github.com/apple/container)** - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. (25k ⭐)
 - **[Carthage](https://github.com/Carthage/Carthage)** - A simple, decentralized dependency manager for Cocoa. (15k ⭐)
 - **[swift-package-manager](https://github.com/swiftlang/swift-package-manager)** - The Package Manager for the Swift Programming Language. (10k ⭐)
@@ -910,5 +810,3 @@ I didn't want to click every link to check if a project was still alive, so I sc
 - **[swift-sdk](https://github.com/watson-developer-cloud/swift-sdk)** - The Watson Swift SDK enables developers to quickly add Watson Cognitive Computing services to their Swift applications. (873 ⭐)
 - **[BitcoinKit](https://github.com/yenom/BitcoinKit)** - Bitcoin protocol toolkit for Swift. (869 ⭐) ⏳
 - **[json2swift](https://github.com/ijoshsmith/json2swift)** - A macOS command line tool that generates excellent Swift data models based on JSON data. (696 ⭐) ⏳
-
-*[↑ Back to top](#contents)*
